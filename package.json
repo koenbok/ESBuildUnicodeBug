@@ -1,0 +1,12 @@
+{
+  "name": "ESBuildUnicodeBug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "esbuild --bundle ./index.ts"
+  },
+  "dependencies": {
+    "esbuild": "^0.1.10"
+  }
+}
