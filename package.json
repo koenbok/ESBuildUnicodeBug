@@ -7,6 +7,6 @@
     "build": "esbuild --bundle ./index.ts"
   },
   "dependencies": {
-    "esbuild": "^0.1.10"
+    "esbuild": "^0.25.0"
   }
 }
